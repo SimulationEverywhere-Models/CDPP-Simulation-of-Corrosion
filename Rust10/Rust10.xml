@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ConfigFramework>
+   <Doc> This model simulates Rust10 using Cell-Devs. It uses Lopez windows version. </Doc>
+      <Files>
+	 <File ftype="ma">Rust10.ma</File>
+<File ftype="ev">Rust10.ev</File>
+      </Files>
+   <Options>
+      <TimeOp>00:00:40000:00</TimeOp>
+      <ParsingOp>false</ParsingOp> 
+   </Options>      
+</ConfigFramework>
